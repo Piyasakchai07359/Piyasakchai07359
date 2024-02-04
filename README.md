@@ -1,6 +1,6 @@
 # :man_scientist: Hi,I am Piyasakchai :man_technologist:
 ## :mage_man: Introduction
-### I am Piyasakchai,
+My name is Piyasakchai. I have 24 years old 
 
 ## :desktop_computer: Computer languages 
 <div>
