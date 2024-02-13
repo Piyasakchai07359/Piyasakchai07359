@@ -14,6 +14,7 @@ My name is Piyasakchai, I have 24 years old. I am ex-Data Engineer , ex-Research
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="md" alt="md" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fortran/fortran-original.svg" title="fortran" alt="fortran" width="40" height="40"/>&nbsp;
 </div>
 
 ## :hammer_and_wrench: Framework & Library
