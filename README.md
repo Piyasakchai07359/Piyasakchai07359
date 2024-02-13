@@ -23,6 +23,8 @@ My name is Piyasakchai, I have 24 years old. I am ex-Data Engineer , ex-Research
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pd" alt="pd" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressjs" alt="expressjs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" title="apachespark" alt="apachespark" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="apacheairflow" alt="apacheairflow" width="40" height="40"/>&nbsp;
 </div>
 
 ## :cloud: Cloud
