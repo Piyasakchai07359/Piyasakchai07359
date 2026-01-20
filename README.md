@@ -35,4 +35,4 @@ My name is Piyasakchai, I have 24 years old. I am ex-Data Engineer , ex-Research
 </div>
 
 ## :notebook_with_decorative_cover: Computer languages that used in my Github
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyasakchai07359)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyasakchai07359&layout=compact)
