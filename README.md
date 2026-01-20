@@ -1,6 +1,10 @@
 # :man_scientist: Hi,I am Piyasakchai :man_technologist:
 ## :mage_man: Introduction
-My name is Piyasakchai, I have 24 years old. I am ex-Data Engineer , ex-Research Engineer and i am big fan of Bocchi the rock and Made in abyss. 
+Welcome to my GitHub! I’m a 26-year-old Data Engineer passionate about building robust data infrastructures and turning complex datasets into meaningful insights. I enjoy tackling technical challenges and optimizing systems to ensure data flows efficiently and accurately.     
+## :tea: When I’m not coding:     
+You’ll probably find me listening to Kessoku Band's latest tracks or re-watching the journey into the Abyss. I’m a big enthusiast of:
+- Bocchi the Rock! :guitar: (For the love of music and its relatability)
+- Made in Abyss :sunrise_over_mountains: (For the incredible world-building and the thrill of exploration)
 
 ## :desktop_computer: Computer languages 
 <div>
